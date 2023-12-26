@@ -76,6 +76,7 @@ p {
   margin-bottom: 15px;
 }
 .learning-btn {
+  cursor: pointer;
   margin-bottom: 10px;
   padding: 7px 15px;
   background-color: var(--yellow);
